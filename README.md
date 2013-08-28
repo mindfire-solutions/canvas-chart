@@ -10,7 +10,7 @@ will be added to the asset pipeline and available for you to use.
 First add the following lines to your applications `Gemfile`:
 
 ``` ruby
-gem 'canvas-chart'
+gem 'canvas-chart', :git => 'git://github.com/mindfire-solutions/canvas-chart'
 ```
 
 Then run `bundle install` to update your application's bundle.
